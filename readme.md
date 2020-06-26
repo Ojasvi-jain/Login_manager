@@ -1,1 +1,3 @@
-# Login system in python with use of json and encryption
+# Login System with python
+#Using json
+#password encrytion with bcrypt
